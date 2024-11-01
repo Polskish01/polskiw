@@ -1,9 +1,9 @@
 body {
-    color: rgb(161, 25, 25);
-    background-color: rgb(1, 14, 29);
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   
+    color: rgb(129, 27, 27);
+    background: rgb(8, 25, 61);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 header {
-    border: solid 2px rgb(167, 167, 167);
+    border: solid 3px white;
 }
