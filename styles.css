@@ -1,5 +1,5 @@
 body {
     color: white;
     background: linear-gradient(blue, red);
-
+min-height: 100vh;
 }
