@@ -5,3 +5,7 @@ min-height: 100vh;
 font-family: Arial, Helvetica, sans-serif;
 background-color: burlywood;
 }
+ iframe{
+    border: 1px solid rebeccapurple;
+    box-shadow: 0 0 5px;
+ }
