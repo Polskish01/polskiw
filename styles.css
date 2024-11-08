@@ -1,5 +1,5 @@
 body {
     color: rgb(161, 53, 45);
-    background: rgb(2, 6, 41);
+    background: linear-gradient(45, yellow, green)
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
