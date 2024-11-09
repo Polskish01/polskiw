@@ -7,9 +7,10 @@ background-color: burlywood;
 padding-block-end: 33px black;
 }
  iframe{
-    border: 1px solid rgb(255, 255, 255);
+    border-radius: 1px solid rgb(255, 255, 255);
     box-shadow: 0 0 6px;
  }
+
 
  /* From Uiverse.io by andrew-demchenk0 */ 
 .button {
